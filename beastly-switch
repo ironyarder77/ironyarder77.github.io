@@ -1,0 +1,29 @@
+_What I learned about Switch Statements and the like_
+I will refer to Switch Statements as SS from here on in this file:
+A SS is a type of Function Stmnt which is used to gather and group a large number of possible choices on the user end 
+-n // I NEED TO SEE MORE REAL WORLD SCENARIO EXAMPLES OF HOW WHAT WE LEARN AT IY MATERIALIZES ON THE USER END:
+IN OTHER WORDS WHAT DOES THIS FUNCTION OR BOT SOLVE?
+WHAT DOES IT LOOK LIKE TO THE USER?
+A good example of this would be something like a an app that is asking the user what his/her favorite food is or car etc., 
+where there are a lot of options.  
+-n // do "drop down menus" relate to this??? find out
+****A SS Checks for certain conditions or "like" or "if" statements
+here is some code that I copied (at least the order of the function statement) so that I could understand the concept of
+the "BREAK"
+ok:
+EX.1
+switch (car "DeLorean";}
+_case_ 
+  document.write ("You must be a sado masochist")
+  BREAK;
+case"Porsche";
+  document.write ("Much better choice and you can actually get them serviced")
+  BREAK;
+  default
+  document.write ("Sorry, looks like you've chosen a make/model we don't carry")
+}
+
+So basically it goes like this:  
+When the choice is made the SS BREAKS or Breaks out of the cycle and stops looking for 
+that means that you don't need a BREAK b/c the process of the search has already ended and a BREAK would be redundant 
+Also if the user picks a car that is not in the database it will return a default statement which we will define like
