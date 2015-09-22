@@ -1,3 +1,4 @@
+JOURNAL WEEK 3 
 Well it was a bit of a releif to move on to CSS but difficult to become reaquainted for sure. I have dabbled in CSS in order to change small attributes: color, font size, etc. but never this extensively
 There are so many attractive things about the amount of spatial control that you can have over elements when using
 CSS, but it is definitely not an intuitive interface...at least for me.
