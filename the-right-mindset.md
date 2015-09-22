@@ -38,7 +38,7 @@ However, we do see a world obsessed with their performance based on the peerform
 ``` -N _**SAMURAI SWORD FORGING MAY BE A GOOD EXAMPLE OF STRENGTH THROUGH BUT IT IS NOT ANALOGOUS TTO THE CONCEPTS BEING DESCRIBED HERE.**_***REPLACE***```
  
 ``` -N _**IT IT IN FACT IS USED TO REMIND THE READER THAT BEAUTY AND STRENGTH ARE SOMETIMESDERIVED FROM WITHSTANDING CHALLENGING LIFE-SITUATIONS...... IT IS MORE IMPORTANT TO DRAW A COMPARISON TO THE INITIAL BRAIN TEASER TEASER TEST THAT KELLY GAVE ME AT THE END OF MY 2ND INTERVIEW: IT ACTUALLY WAS A CONFIDENCE BUILDER FOR ME.**_I FELT ENCOURAGED BY IT AND I STILL THINK OF IT**_```
-
+//the samurai example should not be in final
 <p>Samurai swords were once made (and the best ones still are made)by heating up metals and repeatedly molding them into a small square, which is then beaten and folded over 5,000 times before it is ready to be permently cast as what we know as a Samurai Sword.  With each hammering, the sword master, usually with the help of his apprentice, literally beat it to a pulp with very large mallet like hammers,.  </p>
 The ideas present in Carol Dweck's "Yet" concept and "Yet" mindset have genuinely helped me in just the last 2 days by reminding me of the bigger picture: That I am at the Iron Yard for me, for my own intellectual curiosity, my own personal and, of course, professional development. I can plainly see now that we, in cohort 5, are like those Samurai swords, getting burned, scorched, melted, beaten, folded, and re-heated, over and over until something truly wonderful is realized and then injected back into the world.
 ```-N_**THIS IS NOT AN APPROPRIATE ENDING ----FIX THIS**_```
