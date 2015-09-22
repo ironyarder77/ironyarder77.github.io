@@ -23,6 +23,8 @@ for instance, their brains, although initially terrified of the challenges, begi
 of growth.</p3>
 ```_-N DONT FORGET TO REFERENCE THE KAHN YOUTUBE VIDEO ETC.  LOOP IT BACK IN._```
 
+
+
 <p4>I am very familiar with this concept in my own life. As parents, my wife and I have always taken this approach with our daughter Lola. One of the reasons we moved to Orange county is b/c of a particularly good school in an above average school _district_. It is not abnormal for both parents of a single family household to each hold at least one post graduate degree.  In short, there is an untold amount of pressure placed on the children attending some of the better schools.  Theese schools seem to be better funded and from what we have experienced they still do put a certain amountof pressure on the kids as well.  
 To our credit we made a conscious decision to not put any undue pressure on our daughter. We do praise her like any overly enamored parent would, but we also continually and conciously try to convey a similar philosophy to her, which is essentially the "Yet" concept.</p>
 
