@@ -1,6 +1,6 @@
 **JOURNAL WEEK 3**
 Mon
-Well it was a bit of a releif to move on to CSS..
+Well it was a bit of a relief to move on to CSS..
 There are so many attractive things about the amount of spatial control that you can have over elements when using
 CSS, but it is definitely not an intuitive interface...at least for me.
 The manipulation of borders, margins, text boxes, image wraps (wrapping text around images)..were a lot easier to manipulate in Quark for instance.
