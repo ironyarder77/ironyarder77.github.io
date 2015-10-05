@@ -46,17 +46,21 @@ In order to locate an element located within any given Array, you need a numberi
 computer would have no point of reference on which tobase any sort of incremental system of calculation.
 All Array indexes must start with zero (0) for ease of use with any computer.
 Arrays are objects that rest or live or are nested within numbered indexes.
+
+
 The practical application of array usage should be apparant when contemplating their ability to help group and organize groups of objects, functions, strings, methods, lists, dictionaries, etc.. Below is one pracical example
 that was used in a recent code school course taught by an infamously clever computer scientist uber-programmer and 
 web development instructor, whos name shall be witheld, in case any of the content is innacurrate it will not
 reflect on him/her as an instructor. Any inaccuracies in this tutorial/ mock lesson are purel operator/author error.
 disclamimer end here.
+
+
 Back to the board. As you can see using arrays to accomplish this rank and file type xy grid can be a very efficient way of plotting for use in computer programming.
 Take a look at the middle of the board, where squares will exist but empty, without any overlying object or element.
 These can just as easily be expressed with NULL, but for the purpose of beiing explicit we will display them as follows.
 ["br","bk","bb","bQ","bK","bb","bk","br"]
 ["bp","bp","bp","bp","bp","bp","bp","bp"]
-["", "", "", "", "", "", "", ""]
+["", "", "", "", "", "", "", ""]/n
 ["", "", "", "", "", "", "", ""]
 ["", "", "", "", "", "", "", ""]
 ["", "", "", "", "", "", "", ""]
