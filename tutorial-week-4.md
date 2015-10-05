@@ -19,9 +19,9 @@
 My tutorial for week four will be concerned with arrays.
 We will explore the definition and usage of the array within the context of JavaScript, or .js as we will refer
 to it in this tutorial.
- 1-Arrays are made to house or store multipe values in any single variable.
+ **1-Arrays are made to house or store multipe values in any single variable.**
  It may be helpful to view them as potentially voluminous, cotainers.
- 2-An Arroy may, itself, contain or hold other Arrays!
+**2-An Array may, itself, contain or hold other Arrays**
 So an Array is a special variable that is capable of holding multiple values at any particular time.
 
 
