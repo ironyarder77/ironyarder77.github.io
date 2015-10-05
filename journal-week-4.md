@@ -57,3 +57,4 @@ I didn't look at the arrays on the assignment readme and as I was placing the la
 This concept is very attractive to me- it reminds me of fractal geometry in the sense that it can forever nest deeper within itself-
 Im not sure if there is an Actual limit to this since we now rely so prevalently on virtual servers whos memory capacity seems to be boundless- I wonder what the deepest level of arrays or lists and dictionaries or just nested elements in general, actually is(¿)
 Note to self - look this up in 6 weeks :)
+Things are looking better and more bulbs are turning on day by day. I think it is just a matter of exposure.
